@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 ### Hey，我是Tong Qu  👋
 
 GIF
-
-💬 如果你对我感兴趣，可以加我微信 进一步交流。
-📫 我的邮箱: 358927098@qq.com;
+- 如果你对我感兴趣，可以加我微信 进一步交流。
+- 我的邮箱: 358927098@qq.com;
 技术栈 与 开发工具:
 
     
