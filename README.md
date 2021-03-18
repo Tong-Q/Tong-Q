@@ -5,7 +5,7 @@
 
 你好， 我是一位将近7年工作经验的开发工程师。
 
-  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="https://www.kaisir.cn/img/code.gif" width="430" height="100%" />
 
 - 💬 如果你对我感兴趣，可以加我[微信]进一步交流。
 - 📫 我的邮箱: [358927098@qq.com](mailto:1195419506@qq.com);
