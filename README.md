@@ -1,5 +1,5 @@
 
-### Hey，我是Tong Qu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey，我是Tong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
 
@@ -8,7 +8,7 @@
   <img align="right" alt="GIF" src="https://github.com/Tong-Q/Tong-Q/blob/main/code.gif" width="430" height="100%" />
 
 - 💬 如果你对我感兴趣，可以加我[微信]进一步交流。
-- 📫 我的邮箱: [358927098@qq.com](mailto:1195419506@qq.com);
+- 📫 我的邮箱: [@qq.com](mailto:@qq.com);
 
 **技术栈 与 开发工具:**
 
